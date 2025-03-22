@@ -1,2 +1,2 @@
-# libc-util
-This repository includes a lib which implements some util function in c code
+# mod-c-log
+This repository implements a module including format log function.
