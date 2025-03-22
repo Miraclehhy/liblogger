@@ -4,7 +4,7 @@ TARGET := liblogger.so
 SRC := $(wildcard $(WORKDIR)/src/*.c)
 
 CFLAG := -Werror -Wall -fPIC
-CFLAG += -I$(WORKDIR)/inc
+CFLAG += -I$(WORKDIR)/inc -I$(WORKDIR)/inc/priv
 
 all:$(TARGET) test
 
