@@ -1,2 +1,2 @@
-# mod-c-log
-This repository implements a module including format log function.
+# liblogger
+This repository implements a library including format log function.
